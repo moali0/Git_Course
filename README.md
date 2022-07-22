@@ -1,2 +1,5 @@
 # Git_Course
-##For Git Course 
+For The Course
+
+
+## Project Notes
